@@ -27,6 +27,10 @@ Resultados esperados:
 5. O programa percorre todas as imagens `.TGA` dentro da pasta e suas subpastas, redimensionando todas exceto as que têm IDs preservados.
 6. Exibe uma barra de progresso durante o processo e um resumo ao final.
 
+![Alt text](https://github.com/CarlosEduardoAraujo/iracing-compactador-textura/blob/main/Compactador%20de%20Texturas%20para%20iRacing%2003.png?raw=true "Compactador de Texturas para iRacing")
+
+![Alt text](https://github.com/CarlosEduardoAraujo/iracing-compactador-textura/blob/main/Compactador%20de%20Texturas%20para%20iRacing%2004.png?raw=true "Compactador de Texturas para iRacing")
+
 ---
 
 ## Benefícios
