@@ -1,6 +1,11 @@
 # Compactador de Texturas para iRacing
 
-Este aplicativo simples em Python serve para **reduzir o uso de VRAM no simulador iRacing**, compactando as texturas das pinturas dos carros adversários. Ele redimensiona as imagens `.TGA` usadas como pinturas dos carros para uma resolução menor (1024x1024 ou 512x512), diminuindo significativamente o consumo de memória de vídeo.
+Este aplicativo em Python foi desenvolvido para **reduzir drasticamente o uso de VRAM no simulador iRacing**, especialmente em corridas com muitos adversários. Ele compacta as texturas das pinturas de carros, capacetes e macacões, redimensionando as imagens `.TGA` para resoluções menores (1024x1024 ou 512x512).
+
+Resultados esperados:
+✅ Menor consumo de VRAM – Melhora o desempenho em GPUs com memória limitada.
+✅ Economia de espaço em disco – Até 75% de redução no armazenamento usado pelas texturas.
+✅ Processamento automático – Basta executar o script para aplicar as otimizações.
 
 ---
 
